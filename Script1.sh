@@ -5,5 +5,4 @@ echo "I am learning Devops"
 echo "Adding new line"
 echo "I am from Devops and cloud team"
 echo "I am learning Devops"
-echo "my name is poonam"ls
-echo "happiness is the key"
+echo "my name is poonam"
